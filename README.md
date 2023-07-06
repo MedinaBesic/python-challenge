@@ -8,3 +8,4 @@ Custer, C. (2023, April 9). The basics of python for loops: A tutorial - learn d
 
 Chatgpt. ChatGPT. (n.d.). https://openai.com/chatgpt 
 
+R. Wanjohi, personal communication, July 05, 2023.
